@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{BC820AB5-FC90-408E-9B22-9695F82E7C13}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web_Client/Views/Home/TimeSeriesMovingAvg.cshtml">
+    <Files>
+      <File FileName="Web_Client/Controllers/HomeController.cs" Line="65" Column="10" />
+      <File FileName="Web_Client/Views/Home/Index.cshtml" />
+      <File FileName="Web_Client/appsettings.Development.json" />
+      <File FileName="Web_Client/appsettings.json" />
+      <File FileName="Web_Client/Program.cs" />
+      <File FileName="Web_Client/Models/ErrorViewModel.cs" />
+      <File FileName="Web_Client/Views/Home/TimeSeriesMovingAvg.cshtml" Line="10" Column="41" />
+      <File FileName="Web_Client/Views/Home/LogReg.cshtml" Line="1" Column="1" />
+      <File FileName="Web_Client/Views/_ViewStart.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Web_Client" expanded="True">
+            <Node name="Web_Client" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="TimeSeriesMovingAvg.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Web__Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Model 2- TimeSeriesMovingAvg";
+    var result = (string)TempData["result"];
+
+}
+
+<form method="POST" action="Model2">
+    <label for="a">Please input date (format YYYY-MM-DD) to predict moving average for past 50 days:</label>
+    <br />
+    <input type="text" id="x" name="x"/>
+    <br/>
+    <button type="submit" class="btn btn-secondary">Test Model</button>
+</form>
+
+<div> Result is : @result </div>

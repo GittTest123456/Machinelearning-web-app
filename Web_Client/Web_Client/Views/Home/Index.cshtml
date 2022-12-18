@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+}
+
+<form method="POST" action="Home\Redirect">
+    Please select the model for prediction<br />
+    <input type="radio" name="Model" id="1" value="1" checked="checked"> Model 1 (Logistic Regression)<br />
+    <input type="radio" name="Model" id="2" value="2"> Model 2 (Time Series Moving Average)<br />
+    <br />
+    <input type="submit" value="Submit" />
+</form>
